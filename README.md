@@ -1,0 +1,2 @@
+# hmespta
+HMES WP theme
